@@ -1,0 +1,5 @@
+# 阈值配置
+VMaxDiff: 10.0    # 电压最大偏差 (unit0.1V)
+IMaxDiff: 3.0    # 电流最大偏差 (unit0.1A)
+PMaxDiff: 500.0   # 功率最大偏差 (unit0.1W)
+PfMaxDiff: 50.0  # 功率因数最大偏差 (unit0.01)

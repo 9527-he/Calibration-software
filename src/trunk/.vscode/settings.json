@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.enablePersistentSessions": true,
+    "cmake.allowUnsupportedPresetsVersions": false
+}
